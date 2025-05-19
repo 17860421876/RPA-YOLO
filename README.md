@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/RCEA.png" width="400px">
+<img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/RPA.png" width="400px">
 </div>
 
 # An end-to-end pedestrian detection algorithm based on an adaptive multi-scale multi-branch receptive field attention mechanism
