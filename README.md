@@ -3,13 +3,13 @@
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/RCEA.png" width="400px">
 </div>
 
-# RCEA-YOLOv8: A strawberry target precision detection method at different ripening stages under a novel attention mechanism
+# An end-to-end pedestrian detection algorithm based on an adaptive multi-scale multi-branch receptive field attention mechanism
 
 <div align="center">
 
-  ![](https://img.shields.io/badge/python-3.8-red)
-  [![](https://img.shields.io/badge/pytorch-2.0.0-red)](https://pytorch.org/)
-  [![](https://img.shields.io/badge/torchvision-0.15.0-red)](https://pypi.org/project/torchvision/)
+  ![](https://img.shields.io/badge/python-3.9-red)
+  [![](https://img.shields.io/badge/pytorch-2.0.1-red)](https://pytorch.org/)
+  [![](https://img.shields.io/badge/torchvision-0.15.2-red)](https://pypi.org/project/torchvision/)
   
   
   
@@ -29,11 +29,11 @@
 
 ## Dependencies:
 
- - Python 3.8
- - [PyTorch](https://pytorch.org/) 2.0
- - [Torchvision](https://pypi.org/project/torchvision/) 0.15.0
+ - Python 3.9.20
+ - [PyTorch](https://pytorch.org/) 2.0.1
+ - [Torchvision](https://pypi.org/project/torchvision/) 0.15.2
  - Ubuntu 20.04.5 LTS 
- - NVIDIA Tesla P100
+ - NVIDIA GeForce RTX 3090
    
 
 ## Introduction
