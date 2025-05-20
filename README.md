@@ -72,7 +72,7 @@ In order to evaluate the effectiveness of the improved model on various datasets
  </div>
  
  ## Test result
-a1 and a2 are the RPA-YOLOv8 model test results, and b1 and b2 are the YOLOv10 model test results.
+a1 and a2 are the RPA-YOLOv10 model test results, and b1 and b2 are the YOLOv10 model test results.
 
  <div align="center">
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/Results%20of%20the%20ablation%20experiment.png" width="450px">
