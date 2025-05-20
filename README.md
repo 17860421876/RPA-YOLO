@@ -41,10 +41,10 @@ This study proposes a novel RPA-YOLOv10 detection architecture, aiming to achiev
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/RPA-YOLOV10.png" width="700px">
 </div>
 
-## Ours Strawberries dataset
-We have our largest strawberry data set, a total of 5600 photos, and use the data set expansion method (https://roboflow.com/) to expand the data set to 16800 images. The training, validation and test sets contained 10800,3000 and 3000 images, respectively. Dataset is named SID.
+## Ours Pedestrian dataset
+We have the largest pedestrian dataset at present, consisting of 37,752 photos, including 870,000 instances. On average, each photo contains 23 people. The training set, validation set and test set each contain 23,000, 5,370 and 9,382 images respectively. The dataset is named GWS.
 
-### SID Dataset example
+### GWS Dataset example
 
 <div align="center">
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/xingrenzhaopian.png" width="450px">
@@ -55,7 +55,7 @@ We have our largest strawberry data set, a total of 5600 photos, and use the dat
 ## Result of experiment
 The experiments conducted verified the contribution of the receptive field coordinate attention convolution mechanism (RFCAConv), C2f-SCConv coupling model, EMA attention mechanism and feature enhancement tool (Albu) to improve the performance of strawberry detection at different maturity stages.
 
-### Ablation experiments in SID dataset
+### Ablation experiments in GWS dataset
 <div align="center">
   
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/Results%20of%20the%20ablation%20experiments.png" width="600px">
