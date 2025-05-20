@@ -53,7 +53,7 @@ We have the largest pedestrian dataset at present, consisting of 37,752 photos, 
 </div>
 
 ## Result of experiment
-The experiments conducted verified the contribution of the receptive field coordinate attention convolution mechanism (RFCAConv), C2f-SCConv coupling model, EMA attention mechanism and feature enhancement tool (Albu) to improve the performance of strawberry detection at different maturity stages.
+The experiment verified the contributions of the efficient multi-scale receptive field attention convolution mechanism (RFEMAConv), the C2f-PFEDBB coupling model, and the AFGCA attention mechanism to improving the performance of dense crowd detection in complex scenarios.
 
 ### Ablation experiments in GWS dataset
 <div align="center">
@@ -72,7 +72,7 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  </div>
  
  ## Test result
-a1 and a2 are the RCEA-YOLOv8 model test results, and b1 and b2 are the YOLOv8 model test results.
+a1 and a2 are the RPA-YOLOv8 model test results, and b1 and b2 are the YOLOv10 model test results.
 
  <div align="center">
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/Results%20of%20the%20ablation%20experiment.png" width="450px">
