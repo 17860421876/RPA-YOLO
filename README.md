@@ -3,7 +3,7 @@
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/RPA.png" width="400px">
 </div>
 
-### An end-to-end pedestrian detection algorithm based on an adaptive multi-scale multi-branch receptive field attention mechanism
+# An end-to-end pedestrian detection algorithm based on an adaptive multi-scale multi-branch receptive field attention mechanism
 
 <div align="center">
 
