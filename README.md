@@ -63,7 +63,7 @@ The experiment verified the contributions of the efficient multi-scale receptive
 </div>
 
 ## The outcomes of our model tested on various datasets.
-To assess the efficacy of the improved model on a variety of datasets, experiments were conducted on four different datasets for both the improved model and the baseline model. The following table presents diverse performance metrics, namely P, R, MAP50, MAP50-95 and Param(M), during training on the SID, StrawDI_Db1, and Internet datasets.
+In order to evaluate the effectiveness of the improved model on various datasets, we conducted experiments on the improved model and the baseline model on three different datasets. The table below lists various performance indicators when training on the CrowdHuman, WiderPerson and GWS datasets, namely P, R, MAP50, MAP50-95 and Param(M).
 
 <div align="center">
 <img src="https://github.com/17860421876/RPA-YOLO/blob/main/RPA-YOLO/Three%20different%20pedestrian%20datasets.png" width="600px">
